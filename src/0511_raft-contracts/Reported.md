@@ -1,4 +1,4 @@
-## [LOW-1] Floating Pragma Solidity Version and consistency
+## [LOW-1] Floating Pragma Solidity Version and consistency
 
 The version used is ^  indicates that any compiler version after the number, e.g 0.8.19 , can be used to compile the source code.
 Even if it is the latest version today, it leaves room for it to be attacked in the future.
